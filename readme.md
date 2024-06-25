@@ -3,6 +3,10 @@
 </p>
 <p align="left">
 
+
+CLONE OF REPO: https://github.com/KarelDO/xmc.dspy
+
+
 ## Infer-Retrieve-Rank: In-Context Learning for Extreme Multi-Label classification
 
 Resources:

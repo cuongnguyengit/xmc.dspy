@@ -1,10 +1,4 @@
 .DS_Store
 .vscode/
 __pycache__/
-dspy/
-data/esco/
-data/embeddings/
-results/
 *.log
-local_cache/
-local_cache.tar.gz
